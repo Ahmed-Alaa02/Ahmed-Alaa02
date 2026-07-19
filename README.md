@@ -212,6 +212,7 @@ architecture, schema decisions or code in an interview.
 <img src="https://img.shields.io/badge/Bootstrap-12151B?style=flat-square&logo=bootstrap&logoColor=8B95A5&labelColor=12151B" />
 <img src="https://img.shields.io/badge/jQuery-12151B?style=flat-square&logo=jquery&logoColor=8B95A5&labelColor=12151B" />
 
+&nbsp;&nbsp;→ &nbsp;**[alshehabb.com](https://www.alshehabb.com)**
 </td></tr>
 </table>
 
@@ -261,6 +262,7 @@ architecture, schema decisions or code in an interview.
 <img src="https://img.shields.io/badge/REST%20API-12151B?style=flat-square&logo=fastapi&logoColor=8B95A5&labelColor=12151B" />
 <img src="https://img.shields.io/badge/Bootstrap-12151B?style=flat-square&logo=bootstrap&logoColor=8B95A5&labelColor=12151B" />
 
+&nbsp;&nbsp;→ &nbsp;**[lms.cyberface-solutions.com](https://lms.cyberface-solutions.com)**
 </td></tr>
 </table>
 
@@ -357,44 +359,6 @@ me — can move quickly without fear.
 <br>
 
 <a name="signals"></a>
-
-## Signals
-
-<sub><b>PUBLIC ACTIVITY &nbsp;·&nbsp; MOST CLIENT WORK LIVES IN PRIVATE REPOSITORIES</b></sub>
-
-<br>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedAlaa02&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true&bg_color=0B0D11&title_color=FF2D20&text_color=8B95A5&icon_color=FF2D20&border_color=232830&ring_color=FF2D20" alt="GitHub statistics" />
-&nbsp;
-<img height="165" src="https://streak-stats.demolab.com?user=AhmedAlaa02&background=0B0D11&border=232830&stroke=232830&ring=FF2D20&fire=FF2D20&currStreakNum=E6EDF3&currStreakLabel=FF2D20&sideNums=E6EDF3&sideLabels=8B95A5&dates=5B6472&hide_border=false" alt="Contribution streak" />
-
-<br><br>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlaa02&layout=compact&langs_count=6&hide_title=true&bg_color=0B0D11&text_color=8B95A5&border_color=232830" alt="Most used languages" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AhmedAlaa02&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10&title=Commits,Repositories,Followers,Stars,PullRequest,Issues" alt="GitHub trophies" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAlaa02&area=true&hide_border=true&bg_color=0B0D11&color=E6EDF3&line=FF2D20&point=FF2D20&title_color=FF2D20&custom_title=Contribution%20activity" width="98%" alt="Contribution activity graph" />
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedAlaa02/AhmedAlaa02/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedAlaa02/AhmedAlaa02/output/snake-light.svg" />
-  <img src="https://raw.githubusercontent.com/AhmedAlaa02/AhmedAlaa02/output/snake-dark.svg" width="98%" alt="Contribution snake animation" />
-</picture>
-
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Developer quote" />
-
-</div>
 
 <br>
 
