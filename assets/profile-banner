@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-label="Open to backend PHP and Laravel opportunities">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#12151B"/>
+      <stop offset="70%" stop-color="#0E1116"/>
+      <stop offset="100%" stop-color="#0B0D11"/>
+    </linearGradient>
+    <radialGradient id="fglow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#FF2D20" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#FF2D20" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="frule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF2D20" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FF2D20" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#FF2D20" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .d { font-family: "Segoe UI Semibold","SF Pro Display",Inter,"Helvetica Neue",Arial,sans-serif; }
+      .m { font-family: "SFMono-Regular",ui-monospace,"JetBrains Mono","Cascadia Mono",Consolas,monospace; }
+      @keyframes ping { 0%,100% { r: 4; opacity: .9; } 50% { r: 5.6; opacity: .45; } }
+      .live { animation: ping 2.6s ease-in-out infinite; }
+      @media (prefers-reduced-motion: reduce) { .live { animation: none; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="170" rx="14" fill="url(#fbg)"/>
+  <ellipse cx="200" cy="150" rx="380" ry="180" fill="url(#fglow)"/>
+  <rect x="0" y="168" width="1200" height="2" rx="1" fill="url(#frule)"/>
+
+  <circle class="live" cx="76" cy="70" r="4" fill="#FF2D20"/>
+  <text class="m" x="96" y="75" font-size="12" letter-spacing="3.4" fill="#FF2D20">AVAILABLE FOR WORK</text>
+
+  <text class="d" x="72" y="118" font-size="27" font-weight="600" letter-spacing="-0.5" fill="#EDF2F7">Open to backend PHP / Laravel roles.</text>
+
+  <g class="m" font-size="12" letter-spacing="2" fill="#5B6472" text-anchor="end">
+    <text x="1128" y="75">AHMEDALAA.INFO</text>
+    <text x="1128" y="99">AHMED.ALAA02@OUTLOOK.COM</text>
+    <text x="1128" y="123">CAIRO · EGYPT · GMT+2</text>
+  </g>
+</svg>
