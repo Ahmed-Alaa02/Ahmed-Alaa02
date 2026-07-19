@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Ahmed Alaa — PHP Laravel Backend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0D11"/>
+      <stop offset="55%" stop-color="#0E1116"/>
+      <stop offset="100%" stop-color="#12151B"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#FF2D20" stop-opacity="0.28"/>
+      <stop offset="60%" stop-color="#FF2D20" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#FF2D20" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF2D20"/>
+      <stop offset="45%" stop-color="#FF2D20" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#FF2D20" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="wire" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2A313C"/>
+      <stop offset="100%" stop-color="#3A4351"/>
+    </linearGradient>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.028" stroke-width="1"/>
+    </pattern>
+
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="55%" stop-color="#FFFFFF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="gridMask">
+      <rect width="1200" height="340" fill="url(#fade)"/>
+    </mask>
+
+    <style>
+      .display { font-family: "Segoe UI Semibold","SF Pro Display",Inter,"Helvetica Neue",Arial,sans-serif; }
+      .body    { font-family: "Segoe UI","SF Pro Text",Inter,"Helvetica Neue",Arial,sans-serif; }
+      .mono    { font-family: "SFMono-Regular",ui-monospace,"JetBrains Mono","Cascadia Mono",Consolas,monospace; }
+      @keyframes travel { 0% { offset-distance: 0%; opacity: 0; } 8% { opacity: 1; } 92% { opacity: 1; } 100% { offset-distance: 100%; opacity: 0; } }
+      .packet { offset-path: path("M 812 96 L 950 96 L 950 170 L 812 170 L 812 244 L 950 244"); animation: travel 5.2s cubic-bezier(.5,0,.5,1) infinite; }
+      @keyframes breathe { 0%,100% { opacity: .35; } 50% { opacity: .9; } }
+      .pip { animation: breathe 4s ease-in-out infinite; }
+      @media (prefers-reduced-motion: reduce) { .packet, .pip { animation: none; } .packet { offset-distance: 50%; opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="340" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="14" fill="url(#grid)" mask="url(#gridMask)"/>
+  <ellipse cx="1010" cy="170" rx="420" ry="260" fill="url(#glow)"/>
+
+  <!-- top hairline -->
+  <rect x="0" y="0" width="1200" height="2" rx="1" fill="url(#rule)"/>
+
+  <!-- corner registration marks -->
+  <g stroke="#FF2D20" stroke-opacity="0.55" stroke-width="1.25" fill="none">
+    <path d="M72 44 h-18 v18"/>
+    <path d="M1128 296 h18 v-18"/>
+  </g>
+
+  <!-- LEFT: identity -->
+  <g transform="translate(72,0)">
+    <text class="mono" x="0" y="106" font-size="12.5" letter-spacing="4.6" fill="#FF2D20" fill-opacity="0.95">PHP  ·  LARAVEL  ·  BACKEND</text>
+
+    <text class="display" x="-3" y="176" font-size="62" font-weight="600" letter-spacing="-1.6" fill="#F2F6FA">Ahmed Alaa</text>
+
+    <text class="body" x="0" y="212" font-size="19" font-weight="500" letter-spacing="0.2" fill="#C6D0DC">PHP Laravel Backend Developer</text>
+
+    <rect x="0" y="234" width="46" height="1.5" fill="#FF2D20" fill-opacity="0.8"/>
+
+    <text class="body" x="0" y="268" font-size="15.5" fill="#8B95A5">Building secure, scalable, and maintainable web applications.</text>
+
+    <g class="mono" font-size="11.5" letter-spacing="2.2" fill="#5B6472">
+      <text x="0" y="300">CAIRO, EGYPT</text>
+      <text x="150" y="300">MECH. POWER ENG. → SOFTWARE</text>
+    </g>
+  </g>
+
+  <!-- RIGHT: request lifecycle schematic -->
+  <g>
+    <line x1="760" y1="52" x2="760" y2="288" stroke="#232830" stroke-width="1"/>
+
+    <g class="mono" font-size="11" letter-spacing="2.4" fill="#4E5765">
+      <text x="812" y="66">REQUEST LIFECYCLE</text>
+    </g>
+
+    <!-- wires -->
+    <g stroke="url(#wire)" stroke-width="1.25" fill="none">
+      <path d="M812 96 H950 V170 H812 V244 H950"/>
+    </g>
+
+    <!-- nodes -->
+    <g>
+      <circle cx="812" cy="96" r="4" fill="#FF2D20"/>
+      <circle cx="950" cy="96" r="3.2" fill="#3A4351"/>
+      <circle cx="812" cy="170" r="3.2" fill="#3A4351"/>
+      <circle cx="950" cy="170" r="3.2" fill="#3A4351"/>
+      <circle cx="812" cy="244" r="3.2" fill="#3A4351"/>
+      <circle cx="950" cy="244" r="4" fill="#FF2D20"/>
+    </g>
+
+    <!-- travelling packet -->
+    <circle class="packet" r="3.6" fill="#FF6A5E"/>
+
+    <!-- labels -->
+    <g class="mono" font-size="12" letter-spacing="1.2" fill="#9BA5B4">
+      <text x="978" y="100">Route</text>
+      <text x="978" y="174">Middleware</text>
+      <text x="978" y="248">Controller</text>
+    </g>
+    <g class="mono" font-size="11" letter-spacing="1.2" fill="#5B6472" text-anchor="end">
+      <text x="798" y="100">HTTP</text>
+      <text x="798" y="174">Auth</text>
+      <text x="798" y="248">Eloquent</text>
+    </g>
+
+    <!-- status pips -->
+    <g class="pip">
+      <rect x="1096" y="88" width="26" height="3" rx="1.5" fill="#FF2D20" fill-opacity="0.7"/>
+      <rect x="1096" y="162" width="16" height="3" rx="1.5" fill="#FF2D20" fill-opacity="0.45"/>
+      <rect x="1096" y="236" width="34" height="3" rx="1.5" fill="#FF2D20" fill-opacity="0.55"/>
+    </g>
+  </g>
+</svg>
