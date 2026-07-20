@@ -219,6 +219,35 @@ architecture, schema decisions or code in an interview.
 <table>
 <tr><td width="100%" valign="top">
 
+### &nbsp;818 Gym
+
+<sub>&nbsp;`Private repository` &nbsp;·&nbsp; `Live in production` &nbsp;·&nbsp; `WordPress, custom development`</sub>
+
+&nbsp;&nbsp;A modern fitness website built for 818 Gym, showcasing memberships, training programs,
+&nbsp;&nbsp;wellness services, schedules, and class information through a clean, responsive experience.
+
+&nbsp;&nbsp;**What I built**
+
+&nbsp;&nbsp;— Custom WordPress website tailored to the gym's branding and business requirements  
+&nbsp;&nbsp;— Responsive landing pages with interactive sections and modern UI components  
+&nbsp;&nbsp;— Membership plans, training programs, and service presentation  
+&nbsp;&nbsp;— Dynamic schedules and class information with multilingual support (Arabic / English)  
+&nbsp;&nbsp;— Performance optimization, SEO-friendly structure, and mobile-first experience
+
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/WordPress-12151B?style=flat-square&logo=wordpress&logoColor=21759B&labelColor=12151B" />
+<img src="https://img.shields.io/badge/PHP-12151B?style=flat-square&logo=php&logoColor=8B95A5&labelColor=12151B" />
+<img src="https://img.shields.io/badge/Elementor-12151B?style=flat-square&logo=elementor&logoColor=92003B&labelColor=12151B" />
+<img src="https://img.shields.io/badge/CSS3-12151B?style=flat-square&logo=css3&logoColor=1572B6&labelColor=12151B" />
+<img src="https://img.shields.io/badge/JavaScript-12151B?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=12151B" />
+
+&nbsp;&nbsp;→ &nbsp;**[https://818.ae](https://818.ae)**
+
+</td></tr>
+</table>
+
+<table>
+<tr><td width="100%" valign="top">
+
 ### &nbsp;Learning Management System
 
 <sub>&nbsp;`Private repository` &nbsp;·&nbsp; `Delivered` &nbsp;·&nbsp; `Backend architecture & admin`</sub>
